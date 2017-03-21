@@ -1,4 +1,5 @@
 # GMATA
+Glad to set up the bioinformatics software GMATA in GitHub
 software GMATA
 This is the software GMATA at GitHUB
 What is software GMATA v21
@@ -16,3 +17,14 @@ X Wang, L Wang
 Frontiers in Plant Science 7, doi 10.3389/fpls.2016.01350
 weblink for this papaer: http://journal.frontiersin.org/article/10.3389/fpls.2016.01350/full
 Alternative downloading link: https://sourceforge.net/projects/gmata/
+
+
+Features
+Accurate and fastest SSR mining in any large sequences
+Complete statistical analysis and plotting
+SSR loci and marker graphic displaying in Gbrowser with genome features
+Specific SSR marker designing, and simulated PCR
+Electronic mapping, and marker transferability investigation
+
+
+for more Info, got to https://sourceforge.net/p/gmata/wiki/Home/
