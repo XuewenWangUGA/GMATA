@@ -1,0 +1,43 @@
+This version of GMATA is V 2.1
+updates
+
+updated file based information of GMATA V2.0
+1. formatPrimers.pl was updated: reset three values so that if there are no primers available will not have previous primer information in output with marker unique ID information.
+
+2. ssr2gff3v2.1.pl 
+ Previous script ssr2gff3.pl was added to ssr2gff3v2.1.pl. New version shows more SSR information in Gbrowse.
+ 
+ 3. Marker integrating in Gbrowse
+ New script and features are added to displaying Marker information in Gbrowse in GMATA V2.1.
+ 
+ 4. default value changed in configure file default_cfg.txt
+  
+  [set]:gmat,   -s = 0
+  this change will reduce the temporary file size
+  
+  [set]:elctPCR, -g = 0 
+  This change will increase the accuracy of simulated PCR
+  
+  5. updated graph scripts:
+  All scripts including ssrfig.r, ssrpie.r, ssrfigxy.r , ssrfig.pl were updated. Updated scripts will save the graphics to the input file directory.  However previous graphics will be save in script directory such as bin. Modified graphic script is easy to understand with easy manipulation and uniform format.
+  
+  Output graphics will have input sequences file prefix as prefix. For example, new graphic output file called tha_v9.fas.Fig.A2.KmerDistr.jpeg was "A2.KmerDistr.jpeg".
+  
+  6. marker alleles
+  The alleles number produced by each marker were updated. Script fragct.pl was updated. Previous result file with suffix .frg has only the number information of alleles, e.g. >MK1	1. 
+  Now all allele size information was added to the 3rd column in file with suffix .frg ,   e.g. 
+  >MK100	1	183/183
+  >MK188	2	250/250,267/250
+  amplicon size /desinged size
+  
+  7.SSR loci updates
+  An updated was made to the ordering of SSr loci result file (suffix .ssr). Previous Scripts in this step was rewritten to make a faster speed and less disk occupancy.
+  
+  8. SSR statistical updates
+  
+  A statistical function (De Wachter) is added to SSR statistical output .sat2. The data was added to Table 1 as DeWachter expected. Therefore it is easy to see the observed value and expected value of SSR.
+  
+  
+  
+
+  

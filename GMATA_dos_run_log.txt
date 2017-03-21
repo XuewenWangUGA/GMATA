@@ -1,0 +1,64 @@
+Your running: perl gmata.pl -c ddefault_cfg.txt -i ..\data\testseq.fasta
+Please wait during formating...
+
+Sequences were successfully formatted. 
+file: ..\data\testseq.fasta.fms.
+file: ..\data\testseq.fasta.fms.sat1
+
+Mining microsatellite...
+Microsatellite data were provided.
+file:  ..\data\testseq.fasta.ssr
+
+Statistical Analysing...
+statistic results were provided.
+file:  ..\data\testseq.fasta.sat2
+
+Done.
+Plotting statistical graphies. 
+ Output files: 
+ 12 figures ending with .jpg
+Producing Growse gff file (.gbf). 
+ Output files: 
+ ..\data\testseq.fasta.ssr.gbf 
+Producing Growse gff3 file (.gff3). 
+ Output files: 
+ ..\data\testseq.fasta.ssr.gff3
+To design PCR Primers, Markers for SSR loci and produce statistics.
+
+Preparing loci range information based on SSR information.
+parameters: -fl 200, Output file: ..\data\testseq.fasta.range.
+results yielded at Tue Nov  5 19:08:07 2013
+
+Preparing sequence for primer designing.
+parameters: -s ..\data\testseq.fasta.fms, -r ..\data\testseq.fasta.range, -l 2000, Output file: ..\data\testseq.fasta.seq
+results yielded at Tue Nov  5 19:08:07 2013
+
+Preparing data and designing primers.
+parameters: -p w -smin 120 -Smax 400 -tm 60
+results yielded at Tue Nov  5 19:08:07 2013
+
+Processing primer and producing final primers.
+parameters: -ts F 
+ Output files: 
+..\data\testseq.fasta.ssr.finalPrimer.txt 
+..\data\testseq.fasta.ssr.finalPrimer.txt.sts 
+..\data\testseq.fasta.ssr.finalPrimer.txt.sat3
+results yielded at Tue Nov  5 19:08:08 2013
+
+To do marker ePCR, marker allels counting.
+parameters: w=12 f=1 pf=w m=3000 n=0 g=1 d=100-1000 p=-, 
+ Output files: 
+ ..\data\testseq.fasta.eMap 
+ ..\data\testseq.fasta.eMap.amp
+results yielded at Tue Nov  5 19:08:08 2013
+
+Statistics of size-based allelles of each marker after ePCR and eMapping.
+parameters: -.
+output files: 
+ Marker and its number of amplicons:
+ ..\data\testseq.fasta.eMap.frg
+ Statistical data of ePCR and eMapping: 
+ ..\data\testseq.fasta.eMap.frg.sat4
+results yielded at Tue Nov  5 19:08:09 2013
+
+Done all.

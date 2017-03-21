@@ -1,0 +1,5 @@
+#for dos
+perl gmata.pl -c default_cfg.txt -i ..\data\testseq.fasta
+
+#for linux
+perl gmata.pl -c default_cfg.txt -i ../data/testseq.fasta
