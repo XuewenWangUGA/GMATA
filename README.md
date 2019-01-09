@@ -2,7 +2,7 @@
 Glad to set up the bioinformatics software GMATA in GitHub
 software GMATA
 This is the software GMATA at GitHUB
-What is software GMATA v21
+What is software GMATA v2.2 (latest)
 Genome-wide Microsatellite Analyzing Toward Application (GMATA) is a software for Simple Sequence Repeats (SSR) analyses, and SSR marker designing and mapping in any DNA sequences. It has the following functions:
 1. SSR mining;
 2. Statistical analysis and plotting;
