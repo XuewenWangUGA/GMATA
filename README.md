@@ -2,11 +2,12 @@
 Glad to set up the bioinformatics software GMATA in GitHub
 software GMATA
 
-##updates on version 2.2
+## updates on version 2.2
 1. add a new module for masking SSRs for genome annation
 2. add a new function for satelite analysing
+3. add tools for mining SSRs in 2nd and 3rd genertation reads
 
-##Main functions
+## Main functions
 This is the software GMATA at GitHUB
 What is software GMATA v2.2 (latest)
 Genome-wide Microsatellite Analyzing Toward Application (GMATA) is a software for Simple Sequence Repeats (SSR) analyses, and SSR marker designing and mapping in any DNA sequences. It has the following functions:
@@ -17,15 +18,15 @@ Genome-wide Microsatellite Analyzing Toward Application (GMATA) is a software fo
 5. Electronic mapping and marker transferability investigation.
 GMATA is accurate, sensitive and fast. It was designed to process large genomic sequence data sets, especially large whole genome sequences. In theory, genomes of any size can be analyzed by GMATA easily. Software GMATA works on sever, desktop or even laptop, and it can run in graphic interface with just clicks or run in command line or in automated pipeline. It is also cross-platform and supports Unix/Linux, Win and Mac. Results from software GMATA can be directly graphically displayed with genome or gene features in Gbrowser and easily integrated with any genomic database.
 
-citating this software:
+## Citating this software:
 GMATA: an integrated software package for genome-scale SSR mining, marker development and viewing
 X Wang, L Wang
-Frontiers in Plant Science 7, doi 10.3389/fpls.2016.01350
-weblink for this papaer: http://journal.frontiersin.org/article/10.3389/fpls.2016.01350/full
-Alternative downloading link: https://sourceforge.net/projects/gmata/
+[Frontiers in Plant Science 7, doi 10.3389/fpls.2016.01350](http://journal.frontiersin.org/article/10.3389/fpls.2016.01350/full)
+
+## Alternative downloading link for this software [Sourceforge](https://sourceforge.net/projects/gmata/)
 
 
-Features
+## Features
 Accurate and fastest SSR mining in any large sequences
 Complete statistical analysis and plotting
 SSR loci and marker graphic displaying in Gbrowser with genome features
