@@ -16,7 +16,8 @@ Genome-wide Microsatellite Analyzing Toward Application (GMATA) is a software fo
 2. Statistical analysis and plotting;
 3. SSR loci graphic viewing;
 4. Marker designing;
-5. Electronic mapping and marker transferability investigation.
+5. ploymorphism screen;
+6. Electronic mapping and marker transferability investigation.
 GMATA is accurate, sensitive and fast. It was designed to process large genomic sequence data sets, especially large whole genome sequences. In theory, genomes of any size can be analyzed by GMATA easily. Software GMATA works on sever, desktop or even laptop, and it can run in graphic interface with just clicks or run in command line or in automated pipeline. It is also cross-platform and supports Unix/Linux, Win and Mac. Results from software GMATA can be directly graphically displayed with genome or gene features in Gbrowser and easily integrated with any genomic database.
 
 ## Citing this software:
