@@ -1,10 +1,16 @@
 # GMATA
 Glad to set up the bioinformatics software GMATA in GitHub
 software GMATA
+
+##updates on version 2.2
+1. add a new module for masking SSRs for genome annation
+2. add a new function for satelite analysing
+
+##Main functions
 This is the software GMATA at GitHUB
 What is software GMATA v2.2 (latest)
 Genome-wide Microsatellite Analyzing Toward Application (GMATA) is a software for Simple Sequence Repeats (SSR) analyses, and SSR marker designing and mapping in any DNA sequences. It has the following functions:
-1. SSR mining;
+1. SSR mining; good for all SSRs:microsatellites, satellites, any tadem repeats
 2. Statistical analysis and plotting;
 3. SSR loci graphic viewing;
 4. Marker designing;
