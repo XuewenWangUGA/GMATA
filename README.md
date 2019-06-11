@@ -2,10 +2,11 @@
 Glad to set up the bioinformatics software GMATA in GitHub
 software GMATA
 
-## updates on version 2.2
+## Updates on version 2.2 (come soon)
 1. add a new module for masking SSRs for genome annation
 2. add a new function for satelite analysing
 3. add tools for mining SSRs in 2nd and 3rd genertation reads
+4. new interface
 
 ## Main functions
 This is the software GMATA at GitHUB
@@ -23,7 +24,8 @@ GMATA: an integrated software package for genome-scale SSR mining, marker develo
 X Wang, L Wang
 [Frontiers in Plant Science 7, doi 10.3389/fpls.2016.01350](http://journal.frontiersin.org/article/10.3389/fpls.2016.01350/full)
 
-## Alternative downloading link for this software [Sourceforge](https://sourceforge.net/projects/gmata/)
+## Alternative downloading link for this software 
+[Sourceforge](https://sourceforge.net/projects/gmata/)
 
 
 ## Features
@@ -34,7 +36,10 @@ Specific SSR marker designing, and simulated PCR
 Electronic mapping, and marker transferability investigation
 
 
-for more Info, got to https://sourceforge.net/p/gmata/wiki/Home/
+## Discussion
+[sourceforge discussion](https://sourceforge.net/p/gmata/wiki/Home/)
+
+## Testing data
 To make a test run: go to web https://sourceforge.net/projects/gmata/files/?source=navbar 
-to download the testdata called "datav21.zip"
+to download the test data called "datav21.zip"
 or download the "testseq.fasta" and then put a separately folder e.g. "data" instead of running in the source script, otherwise  all lots of results will write to the same directory. Of course, it will run well if you still want to keep running the analysis on "testseq.fasta"" in the installed software directory.
