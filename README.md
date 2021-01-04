@@ -10,6 +10,7 @@
  
  ## Run command interface
  perl gmata.pl -c default_cfg.txt -i ..\data\testseq.fasta
+
  where -c config file. More details and demonstration on manual.
 
 ## Updates on version 2.2
