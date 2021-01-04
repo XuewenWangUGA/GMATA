@@ -7,8 +7,8 @@
  
  ## Run graphic interface
  java -jar GMATA.jar
-Then you will see the following interface
 
+Then you will see the following interface
 ![What is this](GMATA_Graphinterface.png)
 
  
