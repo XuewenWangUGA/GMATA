@@ -7,6 +7,8 @@
  
  ## Run graphic interface
  java -jar GMATA.jar
+
+
  
  ## Run command interface
  perl gmata.pl -c default_cfg.txt -i ..\data\testseq.fasta
