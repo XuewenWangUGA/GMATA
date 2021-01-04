@@ -5,10 +5,10 @@
 
  cd GMATA
  
- ## run graphic interface
+ ## Run graphic interface
  java -jar GMATA.jar
  
- ## run command interface
+ ## Run command interface
  perl gmata.pl -c default_cfg.txt -i ..\data\testseq.fasta
  where -c config file. More details and demonstration on manual.
 
