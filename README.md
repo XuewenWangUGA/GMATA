@@ -13,6 +13,7 @@
  
  ## Run graphic interface
  `java -jar GMATA.jar`
+ or double click the `GMATA.jar`
 
 Then you will see the following interface
 ![What is this](GMATA_Graphinterface.png)
