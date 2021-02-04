@@ -6,6 +6,10 @@
  `cd GMATA`
  
 [more detailed installation steps](GMATA_installation.pdf)
+
+## GMATA can fully run at either of two ways:
+1. run at the graphic interface: This is recommended for who do have programming skills. Only mouse click is needed for this method to run GMATA.
+2. run at the command interface: This can run batchly and integrate into your pipeline. 
  
  ## Run graphic interface
  `java -jar GMATA.jar`
