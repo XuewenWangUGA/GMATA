@@ -46,6 +46,7 @@ GMATA is accurate, sensitive and fast. It was designed to process large genomic 
 GMATA: an integrated software package for genome-scale SSR mining, marker development and viewing
 X Wang, L Wang
 [Frontiers in Plant Science 7, doi 10.3389/fpls.2016.01350](http://journal.frontiersin.org/article/10.3389/fpls.2016.01350/full)
+
 The software has been cited more than 160 times in published papers. To see which publication cited GMATA and GMATo, click here at my [Google scholar page](https://scholar.google.com/citations?user=jXfdcm0AAAAJ&hl=en)
 
 ## Alternative downloading link for this software 
