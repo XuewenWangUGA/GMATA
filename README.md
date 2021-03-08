@@ -7,7 +7,7 @@
  
 [more detailed installation steps](GMATA_installation.pdf)
 
-## GMATA can fully run at three ways:
+## GMATA can be fully run at three ways:
 1. run at the graphic interface: This is recommended for who do have programming skills. Only mouse click is needed for this method to run GMATA.
 or
 2. run all commands by a single step: This can run batchly and integrate into your pipeline. 
