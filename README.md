@@ -30,7 +30,7 @@ Then you will see the following interface
  Please followed the steps in manual and demo.
 
 ## Updates on version 2.2
-1. add a new module for masking SSRs for genome annation
+1. add a new module for masking SSRs for genome annotation
 2. add a new function for satelite analysing
 3. add tools for mining SSRs in 2nd and 3rd genertation reads
 4. new interface
