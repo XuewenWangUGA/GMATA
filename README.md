@@ -7,9 +7,12 @@
  
 [more detailed installation steps](GMATA_installation.pdf)
 
-## GMATA can fully run at either of two ways:
+## GMATA can fully run at three ways:
 1. run at the graphic interface: This is recommended for who do have programming skills. Only mouse click is needed for this method to run GMATA.
-2. run at the command interface: This can run batchly and integrate into your pipeline. 
+or
+2. run all commands by a single step: This can run batchly and integrate into your pipeline. 
+or
+3. step by step command
  
  ## Run graphic interface
  `java -jar GMATA.jar`
@@ -21,8 +24,10 @@ Then you will see the following interface
  
  ## Run command interface
  `perl gmata.pl -c default_cfg.txt -i ..\data\testseq.fasta`
-
- where -c parameter is for config file. More details and demonstration on [user manual](GMATA%manual_V2.01_20151218.pdf)
+  where -c parameter is for config file. More details and demonstration on [user manual](GMATA%manual_V2.01_20151218.pdf)
+ 
+ ## Step by Step
+ Please followed the steps in manual and demo.
 
 ## Updates on version 2.2
 1. add a new module for masking SSRs for genome annation
