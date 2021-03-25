@@ -24,8 +24,8 @@ Then you will see the following interface
  
  ## Run command interface
  `perl gmata.pl -c default_cfg.txt -i ..\data\testseq.fasta`
-  where -c parameter is for config file. More details and demonstration on ![user manual](GMATA%manual_V2.01_20151218.pdf)
-  
+  where -c parameter is for config file. More details and demonstration on ![user manual] (GMATA%manual_V2.01_20151218.pdf)
+  File: GMATA%manual_V2.01_20151218.pdf
  https://XuewenWangUGA.github.io/GMATA/GMATA%manual_V2.01_20151218.pdf
  
  <a href="XuewenWangUGA.github.io/GMATA/GMATA%manual_V2.01_20151218.pdf" target="_blank">PDF.</a>
