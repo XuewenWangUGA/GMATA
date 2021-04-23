@@ -31,6 +31,10 @@ Then you will see the following interface
  ## Step by Step
  Please followed the steps in manual and demo.
 
+
+## Updates on version 2.2.1
+Updated the graphic interface. fixed the issue which may not start at some particular version of Linux Ubuntu.
+
 ## Updates on version 2.2
 1. add a new module for masking SSRs for genome annotation
 2. add a new function for satelite analysing
