@@ -5,7 +5,9 @@
 
  `cd GMATA`
  
- For Linux, you may need to install additional dependecy e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/)
+ For Linux, you may need to install additional dependency e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/)
+ 
+ For Windows, everthing is package so you don't need to install additional dependency. 
  
 [more detailed installation steps](GMATA_installation.pdf)
 
