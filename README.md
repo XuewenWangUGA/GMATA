@@ -37,7 +37,7 @@ Then you will see the following interface
 
 
 ## Updates on version 2.2.1
-Updated the graphic interface. fixed the issue which may not start at some particular version of Linux Ubuntu.
+Updated the graphic interface. fixed the issue which may not start at particular version of Linux Ubuntu.
 
 ## Updates on version 2.2
 1. add a new module for masking SSRs for genome annotation
