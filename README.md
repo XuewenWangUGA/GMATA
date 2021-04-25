@@ -7,7 +7,7 @@
  
  For Linux, you may need to install additional dependency e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/)
  
- For Windows, everthing is package so you don't need to install additional dependency. 
+ For Windows, everthing is in the package so you don't need to install additional dependency. 
  
 [more detailed installation steps](GMATA_installation.pdf)
 
