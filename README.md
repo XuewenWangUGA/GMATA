@@ -23,7 +23,7 @@ or
  or double click the `GMATA#.jar`, where # is the version number, e.g. `GMATAV2.2.1.jar`
 
 Then you will see the following interface
-![What is this](GMATA_Graphinterface.png)
+![What is this](GMATA_gui2.3.png)
 
  
  ## Run command interface
