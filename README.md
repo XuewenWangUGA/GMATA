@@ -19,7 +19,7 @@ or
 3. step by step command
  
  ## Run graphic interface
- `java -jar GMATA.jar`
+ `java -jar GMATAv2.3.jar`
  or double click the `GMATA#.jar`, where # is the version number, e.g. `GMATAV2.2.1.jar`
 
 Then you will see the following interface
