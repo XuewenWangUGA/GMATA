@@ -35,8 +35,12 @@ Then you will see the following interface
  ## Step by Step
  Please followed the steps in manual and demo.
 
-## Updates on version 2.3
-Updated the graphic interface. Fullly updated to compatible with all major versions of Linux Ubuntu. The interface looks like v2.2.
+## Updates on version 2.3: works for fasta , fastq files
+Updated the graphic interface. Fullly updated to compatible with all major versions of Linux Ubuntu. The interface looks like v2.2. 
+A new module for convert sequence in fastq to fasta file is added into both command line and graphic interface. 
+To use this function, please install python3 (version 3.6 or above) at https://www.python.org/downloads/ for Windows. For Linux and Mac OS, this Python3 may be installed by manufacter.
+The new module is added in graphic interface which can be used by just mouse click.
+For this new module in command line, please see the detailed usage at my Github [Sequence Reads Processing](https://github.com/XuewenWangUGA/SeqReadsProcessing)
 
 ## Updates on version 2.2.1
 Updated the graphic interface. fixed the issue which may not start at particular version of Linux Ubuntu.
