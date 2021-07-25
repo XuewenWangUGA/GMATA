@@ -1,5 +1,5 @@
 # GMATA
-### GMATA stands for Genome-wide Microsatellite Analyzing Toward Application. GMATA is an easiest and fastest bioinformatic tool /software for any Simple Sequence Repeats (SSR) analyses, and SSR marker designing, polymorphism screen, and e-mapping in any DNA sequences. GMATA algorithm has been cited wordwide for more than 100 times. You can run the GMATA from graphic interface or command interface. Latest version: v2.3. Developed by Xuewen Wang.
+### GMATA stands for Genome-wide Microsatellite Analyzing Toward Application. GMATA is an easiest and fastest bioinformatic tool /software for any Simple Sequence Repeats (SSR) analyses, and SSR marker designing, polymorphism screen, and e-mapping in any DNA sequences. GMATA algorithm has been cited wordwide for more than 180 times in academic publication. You can run the GMATA from graphic interface or command interface. Latest version: v2.3. Developed by Xuewen Wang.
 ## Install
  `git clone https://github.com/XuewenWangUGA/GMATA`
 
@@ -53,14 +53,15 @@ Updated the graphic interface. fixed the issue which may not start at particular
 
 ## Main functions
 This is the software GMATA at GitHUB
-What is software GMATA v2.2 (latest)
-Genome-wide Microsatellite Analyzing Toward Application (GMATA) is a software for Simple Sequence Repeats (SSR) analyses, and SSR marker designing and mapping in any DNA sequences. It has the following functions:
+What is software GMATA
+Genome-wide Microsatellite Analyzing Toward Application (GMATA) is a software for Simple Sequence Repeats (SSR or STR) identification, and SSR marker designing and polymorhism mapping in any DNA sequences, not matter how big your file is. It has the following functions:
 1. SSR mining; good for all SSRs:microsatellites, satellites, any tadem repeats
 2. Statistical analysis and plotting;
 3. SSR loci graphic viewing;
 4. Marker designing;
 5. ploymorphism screen;
 6. Electronic mapping and marker transferability investigation.
+7. Sequence file format conversion: Fastq to fasta
 GMATA is accurate, sensitive and fast. It was designed to process large genomic sequence data sets, especially large whole genome sequences. In theory, genomes of any size can be analyzed by GMATA easily. Software GMATA works on sever, desktop or even laptop, and it can run in graphic interface with just clicks or run in command line or in automated pipeline. It is also cross-platform and supports Unix/Linux, Win and Mac. Results from software GMATA can be directly graphically displayed with genome or gene features in Gbrowser and easily integrated with any genomic database.
 
 ## Citing this software:
