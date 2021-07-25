@@ -36,7 +36,7 @@ Then you will see the following interface
  Please followed the steps in manual and demo.
 
 ## Updates on version 2.3
-Updated the graphic interface. Full updated and also works on all major versions of Linux Ubuntu.
+Updated the graphic interface. Fullly updated to compatible with all major versions of Linux Ubuntu. The interface looks like v2.2.
 
 ## Updates on version 2.2.1
 Updated the graphic interface. fixed the issue which may not start at particular version of Linux Ubuntu.
