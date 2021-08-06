@@ -6,6 +6,13 @@ Latest version: v2.3.
 Developed by Xuewen Wang.
 
 ## Install for Windows, Linux and Mac OS
+You can use one of the following methods.
+
+Method 1:
+
+Directly download all files into directory callled GMATA in your computer
+
+Method 2:
  `git clone https://github.com/XuewenWangUGA/GMATA`
 
  `cd GMATA`
