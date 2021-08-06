@@ -1,6 +1,11 @@
 # GMATA
-### GMATA stands for Genome-wide Microsatellite Analyzing Toward Application. GMATA is an easiest and fastest bioinformatic tool /software for any Simple Sequence Repeats (SSR) analyses, and SSR marker designing, polymorphism screen, and e-mapping in any DNA sequences. GMATA algorithm has been cited wordwide for more than 180 times in academic publication. You can run the GMATA from graphic interface or command interface. Latest version: v2.3. Developed by Xuewen Wang.
-## Install
+### GMATA stands for Genome-wide Microsatellite Analyzing Toward Application. GMATA is an easiest and fastest bioinformatic tool /software for any Simple Sequence Repeats (SSR) analyses, and SSR marker designing, polymorphism screen, and e-mapping in any DNA sequences. GMATA algorithm has been cited wordwide for more than 180 times in academic publication. You can run the GMATA from graphic interface or command interface. 
+
+Latest version: v2.3. 
+
+Developed by Xuewen Wang.
+
+## Install for Windows, Linux and Mac OS
  `git clone https://github.com/XuewenWangUGA/GMATA`
 
  `cd GMATA`
