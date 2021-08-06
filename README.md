@@ -11,6 +11,13 @@
  
 [more detailed installation steps](GMATA_installation.pdf)
 
+## Requirements for the latest version of GMATA:
+latest perl 5.##, do not use perl 6.##
+latest python3: version 3.6 or above; do not use python 2
+latest biopython for python3
+latest R 4.##
+
+
 ## GMATA can be fully run at three ways:
 1. run at the graphic interface: This is recommended for who do have programming skills. Only mouse click is needed for this method to run GMATA.
 or
