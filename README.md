@@ -5,13 +5,14 @@
 
  `cd GMATA`
  
- For Linux, you may need to install additional dependency e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/)
+ For Linux and Mac OS X, you may need to install additional dependency primer3 and e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/)
  
  For Windows, everthing is in the package so you don't need to install additional dependency. 
  
 [more detailed installation steps](GMATA_installation.pdf)
 
 ## Requirements for the latest version of GMATA:
+Java runtime version 60 or above coming with latest java jdk 16
 latest perl 5.##, do not use perl 6.##
 latest python3: version 3.6 or above; do not use python 2
 latest biopython for python3
