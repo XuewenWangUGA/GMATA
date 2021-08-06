@@ -13,9 +13,13 @@
 
 ## Requirements for the latest version of GMATA:
 Java runtime version 60 or above coming with latest java jdk 16
+
 latest perl 5.##, do not use perl 6.##
+
 latest python3: version 3.6 or above; do not use python 2
+
 latest biopython for python3
+
 latest R 4.##
 
 
