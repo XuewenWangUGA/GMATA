@@ -35,7 +35,7 @@ latest biopython for python3
 latest R 4.##
 
 
-## GMATA can be fully run at three ways:
+## GMATA can be fully run at one of the three ways:
 1. run at the graphic interface: This is recommended for who do have programming skills. Only mouse click is needed for this method to run GMATA.
 or
 2. run all commands by a single step: This can run batchly and integrate into your pipeline. 
@@ -58,6 +58,12 @@ Then you will see the following interface
  
  ## Step by Step
  Please followed the steps in manual and demo.
+ 
+ ## SSR mask for genomic sequence
+ 
+ This is a new function added for discovery and mask genome-wide SSRs
+ 
+ `perl gmata.pl -c default_cfg2.2.txt -i /path/gseq.fa`
 
 ## Updates on version 2.3: works for fasta , fastq files
 Updated the graphic interface and new module for fastq processing. Fullly updated and compatible with all major versions of Linux including Ubuntu. 
