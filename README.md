@@ -34,6 +34,9 @@ latest biopython for python3
 
 latest R 4.##
 
+Linux like system have to install primer3 depdency. As latest primer3 IO is changed, please use the tested version of primer3 (primer3-2.2.3.tar.gz) in this package and install it. 
+
+
 
 ## GMATA can be fully run at one of the three ways:
 1. run at the graphic interface: This is recommended for who do have programming skills. Only mouse click is needed for this method to run GMATA.
