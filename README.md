@@ -17,7 +17,7 @@ Method 2:
 
  `cd GMATA`
  
- For Linux and Mac OS X, you may need to install additional dependency primer3 and e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/)
+ For Linux and Mac OS X, you may need to install additional dependency primer3 and e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/). Linux like systems have to install primer3 depdency. As the latest primer3 IO is changed and compatible to 4 only, the latest Primer3 is not working properly at the moment. Please use the tested version of primer3 (primer3-2.2.3.tar.gz) coming with this package and install it. 
  
  For Windows, everthing is in the package so you don't need to install additional dependency. 
  
@@ -34,7 +34,7 @@ latest biopython for python3
 
 latest R 4.##
 
-Linux like system have to install primer3 depdency. As latest primer3 IO is changed, please use the tested version of primer3 (primer3-2.2.3.tar.gz) in this package and install it. 
+
 
 
 
