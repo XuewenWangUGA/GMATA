@@ -17,7 +17,7 @@ Method 2:
 
  `cd GMATA`
  
- For Linux and Mac OS X, you may need to install additional dependency primer3 and e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/). Linux like systems have to install primer3 depdency. As the latest primer3 IO is changed and compatible to 4 only, the latest Primer3 is not working properly at the moment. Please use the tested version of primer3 (primer3-2.2.3.tar.gz) coming with this package and install it. 
+ For Linux and Mac OS X, you may need to install additional dependency primer3 and e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/). Linux like systems have to install primer3 depdency. As the latest primer3 IO is changed and compatible to 4 only, the latest Primer3 is not working properly at the moment. Please use the tested version of primer3 (primer3-2.2.3.tar.gz) coming with this package and install it. Tool e-PCR is also included now for those who needs to install in Linux. The instructions for install primers and e-PCR are included after decompressing the .gz or .zip file. 
  
  For Windows, everthing is in the package so you don't need to install additional dependency. 
  
