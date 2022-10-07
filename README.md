@@ -5,6 +5,9 @@ Latest version: v2.3.
 
 Developed by Xuewen Wang.
 
+## News
+A new updated version which will works most Linux syttem is coming soon. In addition, a new visualization of results in coming soon.
+
 ## Install for Windows, Linux and Mac OS
 You can use one of the following methods.
 
