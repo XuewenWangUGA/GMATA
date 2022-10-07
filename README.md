@@ -6,7 +6,7 @@ Latest version: v2.3.
 Developed by Xuewen Wang.
 
 ## News
-A new updated version which will works on most Linux systems is coming soon. In addition, a new visualization of result is coming soon.
+A new updated version which will work on most Linux systems is coming soon. In addition, a new visualization of result is coming soon. A parallele computing will be implemented soon so GMATA will complete all analyses in a much faster way.
 
 ## Install for Windows, Linux and Mac OS
 You can use one of the following methods.
