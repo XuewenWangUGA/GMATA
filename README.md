@@ -12,7 +12,7 @@ Latest version: v2.3.
 Developed by Xuewen Wang.
 
 ## News
-A new updated version which  works on most Linux systems is coming soon. 
+A new updated version which  works on most Linux systems is coming soon. Genoytping specified tandem repeat (TR) sites from NGS platforms can be done using our newest online tool [TRcaller](www.TRcaller.com), which is the fastest and most accurate tool for TR genotyping for both short and long NGS sequencing reads.
 
 ## Install for Windows, Linux and Mac OS
 You can use one of the following methods.
