@@ -119,7 +119,7 @@ The software has been cited more than 160 times in published papers. To see whic
 
 
 ## Features
-Accurate and fastest SSR mining in any large sequences
+Accurate and fastest SSR mining in any large sequences in fasta or fastq format from NGS sequencing platforms
 Complete statistical analysis and plotting
 SSR loci and marker graphic displaying in Gbrowser with genome features
 Specific SSR marker designing, and simulated PCR
