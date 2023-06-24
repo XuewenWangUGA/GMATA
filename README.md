@@ -16,7 +16,7 @@ A new updated version which  works on most Linux systems, Windows and MacOS.
 
 Genoytping specified tandem repeat (TR) sites from NGS platforms can be done using our newest online tool [TRcaller](https://www.trcaller.com/index.aspx), which is the fastest (300x human genome sequencing data for 2 seconds for 20 [CODIS](https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet) STRs) and most accurate tool by far for TR genotyping for both short and long NGS sequencing reads.
 
-## Install for Windows, Linux and Mac OS
+## GMATA install for Windows, Linux and Mac OS
 You can use one of the following methods.
 
 Method 1:
