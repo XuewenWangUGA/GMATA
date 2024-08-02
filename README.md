@@ -14,7 +14,7 @@ Developed by Xuewen Wang.
 ## News
 A new updated version which  works on most Linux systems, Windows and MacOS. 
 
-Genoytping specified tandem repeat (TR) sites from Next Generation Sequencing platforms can be done using command line from Github https://github.com/XuewenWangUGA/TRcaller  or  the web interfacene tool [TRcaller](https://www.trcaller.com/index.aspx). TRcaller which is the fastest (300x human genome sequencing data for 2 seconds for 20 [CODIS](https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet) STRs) and most accurate tool by far for TR genotyping for both short and long NGS sequencing reads.
+Genoytping specified tandem repeat (TR) sites from Next Generation Sequencing platforms can be done using command line from Github https://github.com/XuewenWangUGA/TRcaller. TRcaller which is the fastest (300x human genome sequencing data for 2 seconds for 20 [CODIS](https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet) STRs) and most accurate tool by far for TR genotyping for both short and long NGS sequencing reads.
 
 ## GMATA install for Windows, Linux and Mac OS
 You can use one of the following methods.
@@ -28,7 +28,9 @@ Method 2:
 
  `cd GMATA`
  
- For Linux and Mac OS X, you may need to install additional dependency primer3 and e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/). Linux like systems have to install primer3 depdency. As the latest primer3 IO is changed and compatible to 4 only, the latest Primer3 is not working properly at the moment. Please use the tested version of primer3 (primer3-2.2.3.tar.gz) coming with this package and install it. Tool e-PCR is also included now for those who needs to install in Linux. The instructions for install primers and e-PCR are included after decompressing the .gz or .zip file. 
+ For Linux and Mac OS X, you may need to install additional dependency primer3 and e-PCR.zip which is alvailable at [Sourceforge](https://sourceforge.net/projects/gmata/). 
+ 
+ Alternatively, Unzip the e-PCR.zip, copy the already pre-compliled excutable files for Linux to the GMATA directory. A precompipled primer3 for Linux is already provided and needed to copy the executable files to the GMATA directory. Linux like systems have to install primer3 depdency. As the latest primer3 IO is changed and compatible to 4 only, the latest Primer3 is not working properly at the moment. Please use the tested version of primer3 (primer3-2.2.3.tar.gz) coming with this package and install it. Tool e-PCR is also included now for those who needs to install in Linux. The instructions for install primers and e-PCR are included after decompressing the .gz or .zip file. 
  
  For Windows, everthing is in the package so you don't need to install additional dependency. 
  
