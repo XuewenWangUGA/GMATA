@@ -81,6 +81,9 @@ Then you will see the following interface
  
  `perl gmata.pl -c default_cfg2.2.txt -i /path/gseq.fa`
 
+ or -s 2 for hard masking or -s 1 for softmasking, or -s 0 for no masking
+ 'perl gssrmsk.pl -i gseq.fa -s 2 >run_log.txt'
+
 ## Updates on version 2.3: works for fasta , fastq files
 Updated the graphic interface and new module for fastq processing. Fullly updated and compatible with all major versions of Linux including Ubuntu. 
 A new module for converting sequence in fastq to fasta file is added into both command line and graphic interface. 
