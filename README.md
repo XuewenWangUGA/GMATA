@@ -83,7 +83,7 @@ Then you will see the following interface
 
  or run a separate run based on existing GMATA output: 
  
- 'perl gssrmsk.pl -i gseq.fa -s 2 >run_log.txt'
+ `perl gssrmsk.pl -i gseq.fa -s 2 >run_log.txt`
 
   -s 2 for hard masking or -s 1 for softmasking, or -s 0 for no masking
 
