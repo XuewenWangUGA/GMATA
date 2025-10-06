@@ -27,9 +27,9 @@ ModulRun = Y
 ModulRun = Y
 
 #other parameters:
-# -i =  
-# Input File (e.g. -i = SequenceFileName.ssr.sat2). Default is SequenceFileName.ssr.sat2 created by 
-#  if HERE is NOT SPECIFIED (left empty), meaning will take the value from [set] gmat.
+# -i =  gseq.fa
+# Input File (e.g. -i = SequenceFileName). Default is SequenceFileName created by 
+#  if HERE is NOT SPECIFIED (left empty), meaning it will take the value from [set] gmat.
 -s = 2
 # masking the SSR repeat sequence or not, the value should be 0 or 1 or 2. default is 0  
 # 0 meaning no flanking sequence output in SSR loci file.
