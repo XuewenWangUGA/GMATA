@@ -72,6 +72,11 @@ local $/="\[set\]\:";
 				$run_go= "perl gmat.pl "."$run_info{gmat} -i $inputseq";	
 				&run_module(\$run_go);
 			}
+
+			if(exists $run_info{gssrmsk} ){#gssrmsk
+				$run_go= "perl gssrmsk.pl "."$run_info{gssrmsk}";
+				&run_module(\$run_go);
+			}
 			
 			if(exists $run_info{ssrfig} ){#ssrfig
 				$run_go= "perl ssrfig.pl "."$run_info{ssrfig} -i $sat2";				
