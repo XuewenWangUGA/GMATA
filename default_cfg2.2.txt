@@ -27,7 +27,7 @@ ModulRun = Y
 ModulRun = Y
 
 #other parameters:
-# -i =  gseq.fa
+ -i =  gseq.fa
 # Input File (e.g. -i = SequenceFileName). Default is SequenceFileName created by 
 #  if HERE is NOT SPECIFIED (left empty), meaning it will take the value from [set] gmat.
 -s = 2
